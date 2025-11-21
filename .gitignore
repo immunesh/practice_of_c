@@ -1,0 +1,14 @@
+# Compiled executables
+*.exe
+*.out
+stringCompareAndCopy
+test_string
+
+# Object files
+*.o
+*.obj
+
+# Build artifacts
+*.a
+*.so
+*.dll
